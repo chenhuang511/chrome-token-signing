@@ -1,0 +1,3 @@
+default: opensc-pkcs11
+soft_token: vnpt_p11_v10
+usb_token : eTPKCS11

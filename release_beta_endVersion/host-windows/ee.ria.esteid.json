@@ -1,0 +1,9 @@
+{
+    "name": "ee.ria.esteid",
+    "description": "Give signatures with your eID on the web",
+    "path": "C:\\Users\\vanhaIT\\Desktop\\chrome-token-signing\\host-windows\\Debug\\chrome-token-signing.exe",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://ckjefchnfjhjfedoccjbhjpbncimppeg/"
+    ]
+}
